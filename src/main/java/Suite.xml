@@ -1,0 +1,15 @@
+<suite name = "AdnSmsProject">
+
+   <test name = "LoginModule">
+      <classes>
+         <class name = "com.adn.AdnSmsProject.Test.LoginTest" />
+      </classes>
+   </test>
+
+   <test name = "GcampModule">
+      <classes>
+         <class name = "com.adn.AdnSmsProject.Test.Gcamp" />
+      </classes>
+   </test>
+
+</suite>
